@@ -22,13 +22,19 @@ This is the **React frontend** for the EduPay School Payments and Dashboard appl
 
 ---
 
-## Demo User
+## Live Demo
 
-To test the application, use the following credentials:
+- **Frontend:** [https://bright-paprenjak-08ff66.netlify.app/](https://bright-paprenjak-08ff66.netlify.app/)  
+- **Backend:** [https://edupay-40mj.onrender.com/](https://edupay-40mj.onrender.com/)
 
-- **Email:** harsh@gmail.com  
-- **Password:** 8102512807  
+---
 
+## Test User Credentials
+
+You can use the following credentials to test the application:
+
+- **Email:** `harsh@gmail.com`  
+- **Password:** `8102512807` 
 ---
 
 ## Project Setup
